@@ -1,0 +1,46 @@
+# test_table = {
+#     'table_name':'test_table',
+#     'table_fields' : [{'f_name':'id', 'f_type':'int'}, {'f_name':'count', 'f_type':'int'}],
+# }
+
+add_table = {
+    [table_name':'test_table',
+    table_fields' : [{'f_name':'id', 'f_type':'int'}, {'f_name':'count', 'f_type':'int'}]]
+}
+
+
+def get_variables():
+    var = []
+    for i in dir():
+        if i.startswith('__'):
+            var.append(i)
+    return var
+
+
+# self.id = IntField(__class__.__name__, 'id', '100')
+# IntField(__class__.__name__, 'count', '100')
+
+
+
+{
+    "table_name": "test_table",
+    "table_fields": [
+        {
+            "field_name": "test_f"
+        },
+        {
+            "field_type": "int"
+        }
+    ]
+}
+
+{
+    "test_table": [
+        {
+            "field_name": "test_f"
+        },
+        {
+            "field_type": "int"
+        }
+    ]
+}

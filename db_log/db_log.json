@@ -1,0 +1,42 @@
+{
+    "test_tab": [
+        {
+            "table_field": [
+                {
+                    "field_name": "test_f",
+                    "field_type": "INTEGER",
+                    "lenght": 100,
+                    "null": false,
+                    "commit": 1
+                },
+                {
+                    "field_name": "qqqq",
+                    "field_type": "INTEGER",
+                    "lenght": 100,
+                    "null": true,
+                    "commit": 1
+                },
+                {
+                    "field_name": "qw",
+                    "field_type": "INTEGER",
+                    "lenght": 100,
+                    "null": false,
+                    "commit": 1
+                }
+            ]
+        }
+    ],
+    "QB": [
+        {
+            "table_field": [
+                {
+                    "field_name": "qb",
+                    "field_type": "INTEGER",
+                    "lenght": 200,
+                    "null": false,
+                    "commit": 1
+                }
+            ]
+        }
+    ]
+}
