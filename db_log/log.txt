@@ -44,3 +44,8 @@ def get_variables():
         }
     ]
 }
+
+
+
+
+{'table_name': 'TETS_TABLE', [{'create': 'id INTEGER PRIMARY KEY'}, {'create': 'test_f INTEGER NOT NULL'}]}
